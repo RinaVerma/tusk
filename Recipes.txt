@@ -4,3 +4,5 @@ Welcome to tusk Recipes.
 Daal
 Rice
 Veg
+Puri
+Kheer
